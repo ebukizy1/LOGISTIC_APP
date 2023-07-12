@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1382c1b9-7fe4-4b2e-b0d0-c4ad1341718d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shitta Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/PackageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/models/ContactInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/models/Package.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/models/TrackingInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/PackageRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/PackageRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/TrackingInformationImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/TrackingInformationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dtos/Request/CreatePackageRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dtos/Request/TrackingInformationRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dtos/Response/AddTrackingInformationResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dtos/Response/CreatePackageResponses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dtos/Response/FindTrackingResponses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dtos/Response/TrackingPackageResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/PackageServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/PackageServicesImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/PackageServicesImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/TrackingInformationServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/TrackingInformationServicesImplement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/Converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/Mapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/data/repositories/RepositoryImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/dtos/Request/AddTrackingInformationRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/services/TrackingInformationServicesImplementTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2S757rM68g6ovXPa4WLfEnnuVLv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/oem&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="dtos.Response" />
+      <recent name="dtos.Request" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="services" />
+      <recent name="data.repositories" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PackageServicesImplTest (1)">
+    <configuration name="PackageServicesImplTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Shitta Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="services" />
+      <option name="MAIN_CLASS_NAME" value="services.PackageServicesImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PackageServicesImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="services" />
+      <option name="MAIN_CLASS_NAME" value="services.PackageServicesImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PackageServicesImplTest.testSaveOnePackage_AndCountIsOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Shitta Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dtos.Response.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="services" />
+      <option name="MAIN_CLASS_NAME" value="services.PackageServicesImplTest" />
+      <option name="METHOD_NAME" value="testSaveOnePackage_AndCountIsOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrackingInformationServicesImplementTest.testAddTrackingInformation_AndCountIsOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Shitta Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="services" />
+      <option name="MAIN_CLASS_NAME" value="services.TrackingInformationServicesImplementTest" />
+      <option name="METHOD_NAME" value="testAddTrackingInformation_AndCountIsOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrackingInformationServicesImplementTest.testTrackingInformationIsNotNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Shitta Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="services" />
+      <option name="MAIN_CLASS_NAME" value="services.TrackingInformationServicesImplementTest" />
+      <option name="METHOD_NAME" value="testTrackingInformationIsNotNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="shitaToFast" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="shitaToFast" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PackageServicesImplTest (1)" />
+        <item itemvalue="JUnit.PackageServicesImplTest.testSaveOnePackage_AndCountIsOne" />
+        <item itemvalue="JUnit.PackageServicesImplTest" />
+        <item itemvalue="JUnit.TrackingInformationServicesImplementTest.testAddTrackingInformation_AndCountIsOne" />
+        <item itemvalue="JUnit.TrackingInformationServicesImplementTest.testTrackingInformationIsNotNull" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1382c1b9-7fe4-4b2e-b0d0-c4ad1341718d" name="Changes" comment="" />
+      <created>1688484617934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688484617934</updated>
+      <workItem from="1688484619683" duration="7798000" />
+      <workItem from="1688546505103" duration="4032000" />
+      <workItem from="1688580319680" duration="13411000" />
+      <workItem from="1688647148267" duration="10224000" />
+      <workItem from="1688753889688" duration="3705000" />
+      <workItem from="1688784350337" duration="13000" />
+      <workItem from="1688818705977" duration="9910000" />
+      <workItem from="1688944153193" duration="597000" />
+      <workItem from="1689086091999" duration="11197000" />
+      <workItem from="1689131324672" duration="1418000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
